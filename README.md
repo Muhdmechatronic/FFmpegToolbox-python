@@ -1,6 +1,3 @@
-Here's a detailed tutorial for the `VideoProcessor` class, structured as a `README.md` file. This includes an explanation of its purpose, usage examples, supported file formats, and instructions for installation and setup.
-
-```markdown
 # VideoProcessor
 
 ## Overview
@@ -17,7 +14,7 @@ Install `ffmpeg` with the following command:
 
 ```bash
 sudo apt install ffmpeg
-```
+
 
 ### Windows
 
