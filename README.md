@@ -13,8 +13,8 @@ Before running the scripts, ensure you have `ffmpeg` installed on your system.
 Install `ffmpeg` with the following command:
 
 ```bash
-sudo apt install ffmpeg
-
+    sudo apt install ffmpeg
+```
 
 ### Windows
 
@@ -23,11 +23,10 @@ Follow the steps in this tutorial to install `ffmpeg`: [Install FFmpeg on Window
 Next, clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/Muhdmechatronic/FFmpegToolbox-python.git
-cd FFmpegToolbox-python
-pip install -r requirements.txt
+    git clone https://github.com/Muhdmechatronic/FFmpegToolbox-python.git
+    cd FFmpegToolbox-python
+    pip install -r requirements.txt
 ```
-
 ## Usage
 
 ### Initializing the Video Processor
