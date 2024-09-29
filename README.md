@@ -144,7 +144,7 @@ FFmpeg can convert between a wide range of file formats. Below is a list of popu
 The `VideoProcessor` class provides a powerful yet user-friendly interface for common video processing tasks. Whether you need to change the resolution, frame rate, duration, or format of your videos, this tool has you covered.
 
 For further questions or contributions, feel free to reach out or submit a pull request.
-```
+
 
 ### Explanation of the Structure
 1. **Overview**: Introduces the class and its purpose.
